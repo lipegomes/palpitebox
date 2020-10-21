@@ -1,0 +1,25 @@
+{
+  "name": "palpite-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "Filipe Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "google-spreadsheet": "^3.0.13",
+    "moment": "^2.29.1",
+    "next": "^9.5.5",
+    "postcss-import": "^12.0.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "swr": "^0.3.6",
+    "tailwindcss": "^1.9.4"
+  }
+}

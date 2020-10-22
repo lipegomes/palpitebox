@@ -5,7 +5,7 @@ const Contato = () => {
   return (
     <div>
       <PageTitle title='Contato' />
-      <div className='container'>
+      <div className='container mt-8'>
         <p className='text-center font-bold py-4'>
           Entre em contado através de:
         </p>

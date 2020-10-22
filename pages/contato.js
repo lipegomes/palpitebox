@@ -10,7 +10,7 @@ const Contato = () => {
           Entre em contado através de:
         </p>
         <div className='container text-center'>
-          <a className='text-center px-20' href='https://www.linkedin.com/in/filipe-gomes-43905a1b2/'>Linkedin: https://www.linkedin.com/in/filipe-gomes-43905a1b2/</a>
+          <a className='mb-8 text-center px-20' href='https://www.linkedin.com/in/filipe-gomes-43905a1b2/'>Linkedin: https://www.linkedin.com/in/filipe-gomes-43905a1b2/</a>
         </div>
       </div>
     </div>

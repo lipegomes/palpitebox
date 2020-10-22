@@ -66,7 +66,7 @@ const Sobre = () => {
           <div class='max-w-sm rounded overflow-hidden shadow-lg'>
             <img class='w-full' src='/car-repair.jpg' alt='Mecânico consertando um carro chamado fusca.' />
             <div class='px-6 py-4'>
-              <div class='font-bold text-xl mb-2'>Oficina mecânica</div>
+              <div class='font-bold text-xl mb-2'>Oficinas mecânicas</div>
               <p class='text-gray-700 text-base text-justify'>
                 Os autômovéis não se mantém usuáveis no dia-a-dia somente com combustível, aproveite o momento da manutenção dos
                 autômovéis e conquiste a opnião dos seus clientes com uma excelente manutenção.
@@ -84,7 +84,7 @@ const Sobre = () => {
           <div class='max-w-sm rounded overflow-hidden shadow-lg'>
             <img class='w-full' src='/housebuilding.jpg' alt='Uma casa em construção.' />
             <div class='px-6 py-4'>
-              <div class='font-bold text-xl mb-2'>Construção civil</div>
+              <div class='font-bold text-xl mb-2'>Construções civil</div>
               <p class='text-gray-700 text-base text-justify'>
                 Com o passar dos tempos a industria de construção civil vêm inovando a cada dia os seus processos construtivos em função
                 dos avanços técnologicos. Se insira no mundo técnologico ainda mais e aproveite para saber a opnião dos seus clientes sobre
@@ -103,7 +103,7 @@ const Sobre = () => {
           <div class='max-w-sm rounded overflow-hidden shadow-lg'>
             <img class='w-full' src='/laundry.jpg' alt='Uma lavanderia de roupas com várias máquinas de lavar roupas.' />
             <div class='px-6 py-4'>
-              <div class='font-bold text-xl mb-2'>Lavanderia</div>
+              <div class='font-bold text-xl mb-2'>Lavanderias</div>
               <p class='text-gray-700 text-base text-justify'>
                 Nem todas as pessoas tem tempo para lavar as suas roupas em casa, para outras falta espaço físico. Roupas limpas,
                 cheirosas, tornam a vida da pessoa mais higiênica e agradável. Conquiste a opnião dos usuários da sua lavanderia.

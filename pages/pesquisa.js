@@ -58,7 +58,9 @@ const Pesquisa = () => {
               )
             })}
           </div>
-          <button className='bg-blue-400 px-12 py-4 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
+          <div className='text-center'>
+            <button className='mb-4 bg-blue-400 px-12 py-4 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
+          </div>
         </div>}
       {sucess &&
         <div className='w-1/5 mx-auto'>

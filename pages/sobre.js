@@ -89,7 +89,7 @@ const Sobre = () => {
                 Com o passar dos tempos a industria de construção civil vêm inovando a cada dia os seus processos construtivos em função
                 dos avanços técnologicos. Se insira no mundo técnologico ainda mais e aproveite para saber a opnião dos seus clientes sobre
                 a qualidade dos serviços prestados.
-              </p>"
+              </p>
             </div>
             <div class='px-6 pt-4 pb-2'>
               <span class='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2'>#casa</span>
@@ -121,7 +121,7 @@ const Sobre = () => {
           <div class='max-w-sm rounded overflow-hidden shadow-lg'>
             <img class='w-full' src='/store.jpg' alt='Uma loja de roupas que vende roupas.' />
             <div class='px-6 py-4'>
-              <div class='font-bold text-xl mb-2'>Loja de roupas</div>
+              <div class='font-bold text-xl mb-2'>Lojas de roupas</div>
               <p class='text-gray-700 text-base text-justify'>
                 Ter um vestuário que sejá agradável para cada dia da semana faz parte da vida das pessoas. As vezes se mistura
                 uma peça de roupa com outra no dia-a-dia. Porém todas as pessoas tem dentro de si o consumismo, saiba a opnião

@@ -1,14 +1,17 @@
 # PalpiteBox - Semana Fullstack Master
 
-```
 [![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox)
-```
 
+Este projeto foi construído durante o curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada no site abaixo:
 
-
-Este projeto foi construído e reproduzido durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpitebox.filipegomes.dev/.
+https://palpitebox.filipegomes.dev/.
 
 ![](https://github.com/lipegomes/palpitebox/blob/main/print.png)
+
+A fim de me aprimorar e me desenvolver profissionalmente, eu desenvolvi no "/sobre" cards que demonstram possíveis empreendimentos ao qual o PalpiteBox pode ser utilizado, além disso explico o que é o PalpiteBox. Na imagem abaixo é possível ver os cards:
+
+![](https://github.com/lipegomes/palpitebox/blob/main/public/sobre.png)
+
 
 ## 
 
@@ -29,13 +32,13 @@ npm run dev
 
 ## Layout:
 
-Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/HxvAYhS6l7UDI49u8uLdaC/palpite-box?node-id=0%3A1).
+O layout foi desenvolvido utilizando o Figma, os creditos do layout são do DevPleno. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/HxvAYhS6l7UDI49u8uLdaC/palpite-box?node-id=0%3A1).
 
 ## 
 
 ## Colocando em produção:
 
-Este projeto pode ser colocado em produção utilizando o Vercel. É  necessário criar as variáveis de ambiente para configurar o acesso as  planilhas do Google:
+O Deploy do projeto par produção pdoe ser realizado utilizando o Vercel. Para isso é necessário criar as variáveis de ambiente para configurar o acesso as  planilhas do Google:
 
 ```
 SHEET_CLIENT_EMAIL=client email do service credential
@@ -56,20 +59,18 @@ SHEET_DOC_ID=id da planilha
 
 ## Author:
 
-- **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
-
-### Reproduzido por:
-
-- **Filipe Gomes** - [LinkedIn](https://www.linkedin.com/jobs)
+- **Filipe Gomes** - [LinkedIn](https://www.linkedin.com/in/filipe-gomes-43905a1b2/)
 
 ## 
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/tuliofaria/palpite-box/blob/master/LICENSE.md) para mais informações.
+Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/lipegomes/palpitebox/blob/main/LICENSE.md) para mais informações.
 
 ## 
 
 ## Acknowledgments
+
+- **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
 
 - Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).

@@ -10,18 +10,18 @@ const Index = () => {
   return (
     <div>
       <PageTitle title='Seja bem-vindo' />
-      <p className='mt-12 text-center'>
+      <p className='mt-12 text-center text-gray-700 text-xl'>
         O restaurante X sempre busca por atender melhor seus clientes.<br />
         Por isso, estamos sempre abertos a sua opnião.
       </p>
       <div className='text-center my-12'>
         <Link href='/pesquisa'>
-          <a className='bg-blue-400 px-12 py-4 font-bold rounded-lg shadow-lg hover:shadow'>Dar opnião ou sugestão</a>
+          <a className='bg-indigo-400 px-12 py-4 font-bold text-white rounded-lg shadow-lg hover:shadow transition duration-500 ease-in-out hover:bg-green-400 transform hover:-translate-y-1 hover:scale-110 ...'>Dar opnião ou sugestão</a>
         </Link>
       </div>
       {!data && <p>Carregando...</p>}
       {!error && data && data.showCoupon &&
-        <p className='my-12 text-center'>
+        <p className='my-12 text-center text-gray-700 text-xl'>
           {data.message}
         </p>}
     </div>

@@ -4,12 +4,12 @@ import PageTitle from '../components/PageTitle'
 const Contato = () => {
   return (
     <div>
-      <PageTitle title='Contato' />
+      <PageTitle title='Contato' /> 
       <div className='container mt-8'>
-        <p className='text-center font-bold py-4'>
-          Entre em contado através de:
+        <p className='text-center font-bold py-4 text-gray-700 text-xl'>
+          Entre em contato através de:
         </p>
-        <div className='container mb-8 text-center'>
+        <div className='container mb-8 text-center text-gray-700 text-xl'>
           <a className='text-center px-20' href='https://www.linkedin.com/in/filipe-gomes-43905a1b2/'>Linkedin: https://www.linkedin.com/in/filipe-gomes-43905a1b2/</a>
         </div>
       </div>

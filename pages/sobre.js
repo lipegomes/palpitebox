@@ -33,7 +33,7 @@ const Sobre = () => {
         </p>
       </div>
 
-      <div class='grid gap-3 grid-cols-3 mb-8 mx-auto'>
+      <div class='grid gap-8 grid-cols-3 mb-8 mx-auto'>
         <div className='flex mb-4'>
           <div class='max-w-sm rounded overflow-hidden shadow-lg'>
             <img class='w-full' src='/bakery.jpg' alt='Padeiro produzindo um pão.' />

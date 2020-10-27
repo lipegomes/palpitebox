@@ -20,6 +20,6 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "swr": "^0.3.6",
-    "tailwindcss": "^1.9.4"
+    "tailwindcss": "^1.9.6"
   }
 }

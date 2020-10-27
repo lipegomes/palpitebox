@@ -4,7 +4,7 @@
 
 Este projeto foi construído durante o curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada no site abaixo:
 
-https://palpitebox.filipegomes.dev/.
+https://www.palpitebox.filipegomes.dev/.
 
 ![](https://github.com/lipegomes/palpitebox/blob/main/print.png)
 

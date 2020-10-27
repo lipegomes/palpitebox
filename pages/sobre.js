@@ -18,7 +18,7 @@ const Sobre = () => {
         </p>
         <p className='text-center text-gray-700 text-xl py-4'>
           PalpiteBox é uma aplicação web desenvolvida durante o curso Fullstack Master do DevPleno.
-          O intuito é possibilitar que os clientes façam opniões/sugestões ou críticas, afim de atender
+          O intuito é possibilitar que os clientes façam opiniões/sugestões ou críticas, afim de atender
           melhor os clientes. De tal modo quando o cliente der as suas opniões/sugestões ou críticas,
           será gerado um cupom com 10 % de desconto na próxima compra.
         </p>
@@ -28,8 +28,8 @@ const Sobre = () => {
           Para quem serve o PalpiteBox ?
         </p>
         <p className='mb-4 text-center text-gray-700 text-xl py-4'>
-        A aplicação pode ser utilizada e adaptada a real necessidade de diversos tipos de comércios, empreendimentos e empresas.
-        Confira abaixo alguns nichos de comércios e negócios aonde o PalpiteBox pode ser utilizado:
+          A aplicação pode ser utilizada e adaptada a real necessidade de diversos tipos de comércios, empreendimentos e empresas.
+          Confira abaixo alguns nichos de comércios e negócios aonde o PalpiteBox pode ser utilizado:
         </p>
       </div>
 

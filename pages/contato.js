@@ -10,7 +10,7 @@ const Contato = () => {
           Entre em contato através de:
         </p>
         <div className='container mb-8 text-center text-gray-700 text-xl'>
-          <a className='text-center px-20' href='https://www.linkedin.com/in/filipe-gomes-43905a1b2/'>Linkedin: https://www.linkedin.com/in/filipe-gomes-43905a1b2/</a>
+          <a className='text-center px-20' href='https://www.linkedin.com/in/lipegomes/'>Linkedin: https://www.linkedin.com/in/filipe-gomes-43905a1b2/</a>
         </div>
       </div>
     </div>

@@ -5,11 +5,6 @@
 [![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox)
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lipegomes/PalpiteBox">	
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/lipegomes/PalpiteBox">
-    <a href="https://www.linkedin.com/in/eliaspjuk/">
-    <img alt="Made by Filipe Gomes" src="https://img.shields.io/badge/made%20by-Filipe%20Gomes-brightgreen">
-   </a>
     <a href="https://github.com/lipegomes/palpitebox/issues">
       <img alt="Repository issues" scr="https://img.shields.io/github/issues/lipegomes/palpitebox">
     </a>

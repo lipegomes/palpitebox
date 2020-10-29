@@ -1,6 +1,23 @@
 # PalpiteBox - Semana Fullstack Master
 
+
+
 [![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox)
+
+<p align="center">
+    <a href="https://github.com/lipegomes/palpitebox/issues">
+      <img scr="https://img.shields.io/github/issues/lipegomes/palpitebox" alt="Repository issues">
+    </a>
+    <a href="https://github.com/lipegomes/palpitebox/network/members">
+      <img scr="https://img.shields.io/github/forks/lipegomes/palpitebox" alt="Repository forks">
+    </a>
+     <a href="https://github.com/lipegomes/palpitebox/stargazers">
+      <img scr="https://img.shields.io/github/stars/lipegomes/palpitebox" alt="Repository stars">
+    </a>
+     <a href="https://github.com/lipegomes/palpitebox/blob/main/LICENSE.md">
+      <img scr="https://img.shields.io/github/license/lipegomes/palpitebox" alt="Repository license">
+    </a>
+</p>
 
 Este projeto foi construído durante o curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada no site abaixo:
 

@@ -6,16 +6,16 @@
 
 <p align="center">
     <a href="https://github.com/lipegomes/palpitebox/issues">
-      <img scr="https://img.shields.io/github/issues/lipegomes/palpitebox" alt="Repository issues">
+      <img alt="Repository issues" scr="https://img.shields.io/github/issues/lipegomes/palpitebox">
     </a>
     <a href="https://github.com/lipegomes/palpitebox/network/members">
-      <img scr="https://img.shields.io/github/forks/lipegomes/palpitebox" alt="Repository forks">
+      <img alt="Repository forks" scr="https://img.shields.io/github/forks/lipegomes/palpitebox">
     </a>
      <a href="https://github.com/lipegomes/palpitebox/stargazers">
-      <img scr="https://img.shields.io/github/stars/lipegomes/palpitebox" alt="Repository stars">
+      <img alt="Repository stars" scr="https://img.shields.io/github/stars/lipegomes/palpitebox">
     </a>
      <a href="https://github.com/lipegomes/palpitebox/blob/main/LICENSE.md">
-      <img scr="https://img.shields.io/github/license/lipegomes/palpitebox" alt="Repository license">
+      <img alt="Repository license" scr="https://img.shields.io/github/license/lipegomes/palpitebox">
     </a>
 </p>
 

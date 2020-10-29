@@ -4,21 +4,6 @@
 
 [![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/palpitebox)
 
-<p align="center">
-    <a href="https://github.com/lipegomes/palpitebox/issues">
-      <img alt="Repository issues" scr="https://img.shields.io/github/issues/lipegomes/palpitebox">
-    </a>
-    <a href="https://github.com/lipegomes/palpitebox/network/members">
-      <img alt="Repository forks" scr="https://img.shields.io/github/forks/lipegomes/palpitebox">
-    </a>
-     <a href="https://github.com/lipegomes/palpitebox/stargazers">
-      <img alt="Repository stars" scr="https://img.shields.io/github/stars/lipegomes/palpitebox">
-    </a>
-     <a href="https://github.com/lipegomes/palpitebox/blob/main/LICENSE.md">
-      <img alt="Repository license" scr="https://img.shields.io/github/license/lipegomes/palpitebox">
-    </a>
-</p>
-
 Este projeto foi construído durante o curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada no site abaixo:
 
 https://www.palpitebox.filipegomes.dev/.

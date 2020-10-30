@@ -1,4 +1,0 @@
-Desafios
-
-inserir pai do whatsapp no palpitebox:
-https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3Dseunumerodetelefone%26text%3Dsua%2520mensagem

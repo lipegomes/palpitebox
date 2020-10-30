@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='bg-gray-600 p-4'>
       <div className='container mx-auto text-center font-bold text-white'>
-        Projeto desenvolvido por: {' '}
+        Projeto adaptado por: {' '}
         <a className='hover:underline' href='https://filipegomes.dev'>Filipe Gomes</a> / {' '}
         <a className='hover:underline' href='https://www.linkedin.com/in/lipegomes/'>Linkedin</a> / {' '}
         <a className='hover:underline' href='https://github.com/lipegomes'>Github</a>

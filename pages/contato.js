@@ -44,7 +44,7 @@ const Contato = () => {
                     </div>
                   </div>
                   <div className='ml-4'>
-                    <a className='text-lg leading-6 font-medium text-gray-900 hover:underline' href='https://www.linkedin.com/in/lipegomes/ ' target='blank'>Likedin</a>
+                    <a className='text-lg leading-6 font-medium text-gray-900 hover:underline' href='https://www.linkedin.com/in/lipegomes/ ' target='blank'>Linkedin</a>
                     <p className='mt-2 text-base leading-6 text-gray-700'>
                       Entre em contato através do linkedin, a maior rede social para diversos tipos de profissionais do mundo.
                     </p>

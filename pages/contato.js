@@ -46,7 +46,7 @@ const Contato = () => {
                   <div className='ml-4'>
                     <a className='text-lg leading-6 font-medium text-gray-900 hover:underline' href='https://www.linkedin.com/in/lipegomes/ ' target='blank'>Likedin</a>
                     <p className='mt-2 text-base leading-6 text-gray-700'>
-                      Entre em contado através do linkedin, a maior rede social para diversos tipos de profissionais do mundo.
+                      Entre em contato através do linkedin, a maior rede social para diversos tipos de profissionais do mundo.
                     </p>
                   </div>
                 </div>
@@ -61,7 +61,7 @@ const Contato = () => {
                   <div className='ml-4'>
                     <a className='text-lg leading-6 font-medium text-gray-900 hover:underline' href='https://wa.me/5521993459648?text=Adorei%20o%20palpitebox' target='blank'>WhatsApp</a>
                     <p className='mt-2 text-base leading-6 text-gray-700'>
-                      Entre em contado via WhatsApp, mande a sua opnião/sugestão.
+                      Entre em contato via WhatsApp, mande a sua opnião/sugestão.
                     </p>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ const Contato = () => {
                   <div className='ml-4'>
                     <a className='text-lg leading-6 font-medium text-gray-900 hover:underline' href='https://t.me/lord_fil' target='blank'>Telegram</a>
                     <p className='mt-2 text-base leading-6 text-gray-700'>
-                      Entre em contado via Telegram, mande a sua opnião/sugestão.
+                      Entre em contato via Telegram, mande a sua opnião/sugestão.
                     </p>
                   </div>
                 </div>

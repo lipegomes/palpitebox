@@ -15,7 +15,7 @@
    style="enable-background:new 0 0 112.196 112.196;"
    xml:space="preserve"
    sodipodi:docname="linkedin.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)"><metadata
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
    id="metadata3021"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
@@ -28,21 +28,22 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1864"
-   inkscape:window-height="1016"
+   inkscape:window-width="1920"
+   inkscape:window-height="1027"
    id="namedview3017"
    showgrid="false"
    inkscape:zoom="1.3707773"
    inkscape:cx="82.294448"
    inkscape:cy="100.08309"
-   inkscape:window-x="1422"
-   inkscape:window-y="27"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Capa_1" />
+   inkscape:current-layer="Capa_1"
+   inkscape:document-rotation="0" />
 <g
    id="g2984">
 	<circle
-   style="fill:#5ab2e9;fill-opacity:1"
+   style="fill:#667eea;fill-opacity:1"
    cx="56.098"
    cy="56.097"
    r="56.098"

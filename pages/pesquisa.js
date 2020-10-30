@@ -36,8 +36,8 @@ const Pesquisa = () => {
       <PageTitle title='Pesquisa' />
       <h1 className='text-center font-bold my-4 text-2xl text-gray-800'>Críticas e sugestões</h1>
       <p className='text-center mb-6 text-gray-700 text-xl'>
-      O restaurante X sempre busca por atender melhor seus clientes.<br />
-      Por isso, estamos sempre abertos a sua opnião.
+        O restaurante X sempre busca por atender melhor seus clientes.<br />
+        Por isso, estamos sempre abertos a sua opnião.
       </p>
       {!sucess &&
         <div className='w-1/5 mx-auto'>
@@ -51,8 +51,7 @@ const Pesquisa = () => {
           <div className='flex py-6'>
             {notas.map(nota => {
               return (
-                <label className='block w-1/6 text-center'>
-                  {nota}<br />
+                <label className='block w-1/6 text-center'>{nota}<br />
                   <input type='radio' name='Nota' value={nota} onChange={onChange} />
               </label>
               )

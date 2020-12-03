@@ -14,6 +14,8 @@ A fim de me aprimorar e me desenvolver profissionalmente, eu desenvolvi no "/sob
 
 ![](https://github.com/lipegomes/palpitebox/blob/main/public/sobre.png)
 
+No "/contatos" eu desenvolvi um informativo com links para contatos.
+
 
 ## 
 

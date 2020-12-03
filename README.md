@@ -8,7 +8,7 @@ Este projeto foi construído durante o curso Fullstack Master do [DevPleno](http
 
 https://www.palpitebox.filipegomes.dev/.
 
-![](https://github.com/lipegomes/palpitebox/blob/main/print.png)
+![](https://github.com/lipegomes/palpitebox/blob/main/public/main.png)
 
 A fim de me aprimorar e me desenvolver profissionalmente, eu desenvolvi no "/sobre" cards que demonstram possíveis empreendimentos ao qual o PalpiteBox pode ser utilizado, além disso explico o que é o PalpiteBox. Na imagem abaixo é possível ver os cards:
 

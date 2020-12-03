@@ -36,7 +36,7 @@ const Pesquisa = () => {
       <PageTitle title='Pesquisa' />
       <h1 className='text-center font-bold my-4 text-2xl text-gray-800'>Críticas e sugestões</h1>
       <p className='text-center mb-6 text-gray-700 text-xl'>
-        O estabelecimento X sempre busca a cada dia atender melhor seus clientes.<br />
+        O estabelecimento X sempre busca a cada dia atender melhor a seus clientes.<br />
         A sua opnião é de suma importância para que possamos lhe atender cada dia melhor.<br />
         Responda a pesquisa de opnião abaixo e ganhe um desconto na próxima compra.
       </p>

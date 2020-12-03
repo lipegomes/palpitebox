@@ -8,7 +8,7 @@ const Contato = () => {
       <div className='py-12 bg-white'>
         <div className='max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8'>
           <div className='lg:text-center'>
-            <p className='text-2xl leading-6 text-indigo-600 font-semibold tracking-wide uppercase'>Entre em contato:</p>
+            <p className='text-3xl leading-6 text-indigo-600 font-semibold tracking-wide'>Entre em contato:</p>
             <h3 className='mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-800 sm:text-4xl sm:leading-10'>
               Procuramos lhe atender da melhor maneira possível.
             </h3>
@@ -85,6 +85,7 @@ const Contato = () => {
           </div>
         </div>
       </div>
-    </div>)
+    </div>
+  )
 }
 export default Contato

@@ -34,7 +34,7 @@ const Sobre = () => {
           </p>
         </div>
 
-        <div className='grid gap-4 grid-cols-3 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 mb-4 '>
+        <div className='grid gap-4 grid-cols-3 sm:grid-cols-3 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 mb-4 '>
           <div className='flex mb-4'>
             <div className='max-w-sm rounded overflow-hidden shadow-lg'>
               <img className='w-full' src='/bakery.jpg' alt='Padeiro produzindo um pão.' />
@@ -46,9 +46,9 @@ const Sobre = () => {
                 </p>
               </div>
               <div className='px-6 pt-4 pb-2'>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#pão</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#trigo</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#alimentação</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#pão</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#trigo</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#alimentação</span>
               </div>
             </div>
           </div>
@@ -64,9 +64,9 @@ const Sobre = () => {
                 </p>
               </div>
               <div className='px-6 pt-4 pb-2'>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'># cabelo</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#barba</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#beleza</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'># cabelo</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#barba</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#beleza</span>
               </div>
             </div>
           </div>
@@ -82,9 +82,9 @@ const Sobre = () => {
                 </p>
               </div>
               <div className='px-6 pt-4 pb-2'>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#motor</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#pintura</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#manutenção</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#motor</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#pintura</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#manutenção</span>
               </div>
             </div>
           </div>
@@ -101,9 +101,9 @@ const Sobre = () => {
                 </p>
               </div>
               <div className='px-6 pt-4 pb-2'>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#casa</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#madeira</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#tijolo</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#casa</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#madeira</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#tijolo</span>
               </div>
             </div>
           </div>
@@ -119,9 +119,9 @@ const Sobre = () => {
                 </p>
               </div>
               <div className='px-6 pt-4 p   <div className="flex mb-4">b-2'>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#sabão</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#espuma</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#higiene</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#sabão</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#espuma</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#higiene</span>
               </div>
             </div>
           </div>
@@ -138,9 +138,9 @@ const Sobre = () => {
                 </p>
               </div>
               <div className='px-6 pt-4 pb-2'>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#calças</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#vestidos</span>
-                <span className='inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 mr-2 mb-2'>#casacos</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#calças</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#vestidos</span>
+                <span className='inline-block bg-indigo-500 rounded-full px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mb-2'>#casacos</span>
               </div>
             </div>
           </div>

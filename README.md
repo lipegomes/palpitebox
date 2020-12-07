@@ -43,7 +43,7 @@ O layout foi desenvolvido utilizando o Figma, os creditos do layout são do DevP
 
 ## Colocando em produção:
 
-O Deploy do projeto par produção pdoe ser realizado utilizando o Vercel. Para isso é necessário criar as variáveis de ambiente para configurar o acesso as  planilhas do Google:
+O Deploy do projeto para produção pode ser realizado utilizando o Vercel. Para isso é necessário criar as variáveis de ambiente para configurar o acesso as  planilhas do Google:
 
 ```
 SHEET_CLIENT_EMAIL=client email do service credential
@@ -64,7 +64,7 @@ SHEET_DOC_ID=id da planilha
 
 ## Author:
 
-- **Filipe Gomes** - [LinkedIn](https://www.linkedin.com/in/filipe-gomes-43905a1b2/)
+- **Filipe Gomes** - [LinkedIn](https://www.linkedin.com/in/lipegomes/)
 
 ## 
 

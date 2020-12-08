@@ -38,7 +38,7 @@ const Pesquisa = () => {
       <p className='text-center mb-6 text-gray-700 text-xl'>
         O estabelecimento X sempre busca a cada dia atender melhor a seus clientes.<br />
         A sua opnião é de suma importância para que possamos lhe atender cada dia melhor.<br />
-        Responda a pesquisa de opnião abaixo e ganhe um desconto na próxima compra.
+        Responda a pesquisa de opnião abaixo e ganhe um desconto de 10% na próxima compra.
       </p>
       {!sucess &&
         <div className='w-1/5 mx-auto'>
